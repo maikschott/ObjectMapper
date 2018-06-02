@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectMapper", "ObjectMapper\ObjectMapper.csproj", "{173EFEC8-9B57-49E6-952D-4DED3679646F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectMapper", "ObjectMapper\ObjectMapper.csproj", "{173EFEC8-9B57-49E6-952D-4DED3679646F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectMapper.Tests", "ObjectMapper.Tests\ObjectMapper.Tests.csproj", "{DB5A4B85-BB38-4D4F-B681-B3115946DB6E}"
 EndProject
